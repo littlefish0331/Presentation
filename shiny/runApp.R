@@ -1,0 +1,2 @@
+library(DT)
+runApp("shiny/")
